@@ -71,7 +71,7 @@ section:before {
   position: relative;
   font-size: 12em;
   z-index: 1;
-  margin-bottom: 150px;
+  margin-bottom: 80px;
   -webkit-text-stroke: 1px black;
   height: 700px;
   width: 800px;
@@ -104,4 +104,5 @@ section:before {
 h1 {
   font-size: 150px;
   margin-top: 50px;
+  color: white;
 }
